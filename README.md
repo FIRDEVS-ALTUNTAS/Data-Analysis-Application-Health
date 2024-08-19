@@ -1,4 +1,4 @@
-# Data-Analysis-Application-Health
+## Data-Analysis-Application-Health
 # Proje Açıklaması
 Bu proje, Python betiği kullanarak bir veri seti üzerinde analiz yapmanızı sağlayan bir C# uygulamasıdır. Uygulama, kullanıcıların dosya seçmesine olanak tanır, ardından bu dosya üzerinde Python ile analiz yapar ve sonuçları ekranda gösterir. Ayrıca, analiz sonuçları bir Word belgesi olarak kaydedilebilir.
 
