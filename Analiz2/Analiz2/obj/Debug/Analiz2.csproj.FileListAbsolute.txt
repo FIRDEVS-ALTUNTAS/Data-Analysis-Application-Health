@@ -1,0 +1,14 @@
+C:\Users\Firdevs\source\repos\Analiz2\Analiz2\bin\Debug\Analiz2.exe.config
+C:\Users\Firdevs\source\repos\Analiz2\Analiz2\bin\Debug\Analiz2.exe
+C:\Users\Firdevs\source\repos\Analiz2\Analiz2\bin\Debug\Analiz2.pdb
+C:\Users\Firdevs\source\repos\Analiz2\Analiz2\obj\Debug\Analiz2.csproj.AssemblyReference.cache
+C:\Users\Firdevs\source\repos\Analiz2\Analiz2\obj\Debug\Analiz2.Form1.resources
+C:\Users\Firdevs\source\repos\Analiz2\Analiz2\obj\Debug\Analiz2.Properties.Resources.resources
+C:\Users\Firdevs\source\repos\Analiz2\Analiz2\obj\Debug\Analiz2.csproj.GenerateResource.cache
+C:\Users\Firdevs\source\repos\Analiz2\Analiz2\obj\Debug\Analiz2.csproj.CoreCompileInputs.cache
+C:\Users\Firdevs\source\repos\Analiz2\Analiz2\obj\Debug\Analiz2.exe
+C:\Users\Firdevs\source\repos\Analiz2\Analiz2\obj\Debug\Analiz2.pdb
+C:\Users\Firdevs\source\repos\Analiz2\Analiz2\bin\Debug\Analiz2.exe.manifest
+C:\Users\Firdevs\source\repos\Analiz2\Analiz2\bin\Debug\Analiz2.application
+C:\Users\Firdevs\source\repos\Analiz2\Analiz2\obj\Debug\Analiz2.exe.manifest
+C:\Users\Firdevs\source\repos\Analiz2\Analiz2\obj\Debug\Analiz2.application
